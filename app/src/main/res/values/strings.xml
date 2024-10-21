@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sigma Physics</string>
+    <string name="placeholder_search">Search</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_setting">Setting</string>
+    <string name="chapter_1">KUY101 KUY101 KUY101 KUY101 KUY101 KUY101 KUY101 KUY101</string>
+    <string name="chapter_2">KUY102"</string>
+    <string name="chapter_3">KUY103"</string>
+    <string name="chapter_4">KUY104"</string>
+    <string name="chapter_5">KUY105"</string>"
+    <string name="description_1">KUY AI KAi1</string>
+    <string name="description_2">KUY AI KAi2</string>
+    <string name="description_3">KUY AI KAi3</string>
+    <string name="description_4">KUY AI KAi4</string>
+    <string name="description_5">KUY AI KAi5</string>
+    <string name="learn_1">learn1</string>
+    <string name="learn_2">learn2</string>
+
+</resources>
